@@ -15,4 +15,4 @@ def question_and_answer():
     correct_answer = 'no'
     if is_even(question):
         correct_answer = 'yes'
-    return question, 
+    return question, correct_answer

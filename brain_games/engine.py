@@ -1,6 +1,8 @@
 import prompt
 
+
 NUM_OF_ROUNDS = 3
+
 
 def run(game):
     print('Welcome to the Brain Games!')
